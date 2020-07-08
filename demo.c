@@ -2,6 +2,6 @@
 
 int main()
 {
-	printf("this is the first commit!\n");
+	printf("I am fengfeng.\n");
 	return 0;
 }
